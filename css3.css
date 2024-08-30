@@ -1,0 +1,32 @@
+body{
+    background-color: burlywood;
+}
+.logo {
+    text-align: center;
+}
+.logo img{
+    width: 10%;
+}
+.logo b{
+    font-size: 20px;
+}
+.div{
+    text-align: center;
+}
+.table {
+width: 100%;
+text-align: center;
+border-collapse: collapse;
+border: 3px;
+font-size: 20px;
+float: right;
+
+}
+th{
+    background-color: black;
+    color:wheat;
+}
+tr,td{
+    font-size: 20px;
+    border: 2px solid black;
+}

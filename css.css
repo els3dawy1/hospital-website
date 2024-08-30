@@ -1,0 +1,34 @@
+body{
+    background-color: burlywood;
+}
+.logo {
+    text-align: center;
+}
+.logo img{
+    width: 10%;
+}
+.logo b{
+    font-size: 20px;
+}
+.form {
+    text-align: center;
+}
+.from p{
+    font-size: 204px;
+
+}
+.form input{
+    padding: 10px;
+    width: 50%;
+    margin-bottom: 10px;
+    background-color: bisque;
+
+}
+.form button{
+    font-size: 16px;
+    color:rgb(10, 8, 51);
+    background-color: burlywood;
+    box-sizing: border-box;
+    
+    }
+  
